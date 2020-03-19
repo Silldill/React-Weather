@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "react-weather-eric2",
+    "react-weather-eric2": "react-weather-eric2"
+  }
+}
